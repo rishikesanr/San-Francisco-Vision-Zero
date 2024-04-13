@@ -1,2 +1,2 @@
 # San-Franciso-Zero-Vision
-Hackathon 2024 Finalist 
+Aggie Hack 2024 Finalist 
