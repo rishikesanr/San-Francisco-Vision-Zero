@@ -1,2 +1,2 @@
 # San-Franciso-Zero-Vision
-Aggie Hack 2024 Finalist sponsered by City and Council of San Francisco!
+Finalist - Aggie Hack 2024 Sponsered by City and Council of San Francisco!
