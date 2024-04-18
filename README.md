@@ -1,5 +1,5 @@
 # San-Francisco-Vision-Zero
-Finalist - Aggie Hack 2024 Sponsered by SF Data (City and Council of San Francisco), Standard Insights!
+Finalist - Aggie Hack 2024 Sponsered by SF Data (City and Council of San Francisco), Standard Insights, and Spanda AI!
 
 # Team
 Rishikesan Ravichandran<br>
